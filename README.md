@@ -22,3 +22,5 @@ you can jump around to any notebook if you wish.
 - Advanced Python
   - [Object Oriented Programming](https://colab.research.google.com/drive/12QUI8qXAqpiAsAVl3huP-zH0l0FuNADU?usp=sharing) - A deep dive into classes and how they can be utilized
   - [Python Packaging](https://drive.google.com/file/d/1sD3usfOJAKN2va993vnN5D1ahY17evgX/view?usp=sharing) - Goes over the basics of python packaging and how to install modules
+- Data Science
+  - [dataLibrariesIntro.ipynb](https://colab.research.google.com/drive/12tkjY9F2H8EcPuyZ96Igim-ebd0_Zioi) - An introduction to some common data science libraries
